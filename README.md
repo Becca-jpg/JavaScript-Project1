@@ -1,2 +1,2 @@
 # JavaScript-Project1
- JavaScript Project I built to practice my JavaScript skills 
+ A quick typing word game I built to practice my JavaScript Skills
